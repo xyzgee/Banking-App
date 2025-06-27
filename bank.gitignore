@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.db
+*.sqbpro
+*.iml
+.idea/
+.vscode/
+out/
+target/
+bin/
