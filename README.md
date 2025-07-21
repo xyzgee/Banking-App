@@ -1,6 +1,6 @@
 # Java Banking App
 
-A simple and secure banking application built with Java Swing and SQLite.
+A simple and secure banking application built with Java Swing and SQLite. It consists of user account registration and login abilities and a dashboard that has a feature for money deposit and withdrawal as well as the account transaction history. 
 
 ## Features
 - User registration and login
